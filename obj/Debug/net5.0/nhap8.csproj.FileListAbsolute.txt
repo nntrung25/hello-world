@@ -1,0 +1,16 @@
+E:\LEARN\Online\CTDLGT bt\nhap8\bin\Debug\net5.0\nhap8.exe
+E:\LEARN\Online\CTDLGT bt\nhap8\bin\Debug\net5.0\nhap8.deps.json
+E:\LEARN\Online\CTDLGT bt\nhap8\bin\Debug\net5.0\nhap8.runtimeconfig.json
+E:\LEARN\Online\CTDLGT bt\nhap8\bin\Debug\net5.0\nhap8.runtimeconfig.dev.json
+E:\LEARN\Online\CTDLGT bt\nhap8\bin\Debug\net5.0\nhap8.dll
+E:\LEARN\Online\CTDLGT bt\nhap8\bin\Debug\net5.0\ref\nhap8.dll
+E:\LEARN\Online\CTDLGT bt\nhap8\bin\Debug\net5.0\nhap8.pdb
+E:\LEARN\Online\CTDLGT bt\nhap8\obj\Debug\net5.0\nhap8.csproj.AssemblyReference.cache
+E:\LEARN\Online\CTDLGT bt\nhap8\obj\Debug\net5.0\nhap8.GeneratedMSBuildEditorConfig.editorconfig
+E:\LEARN\Online\CTDLGT bt\nhap8\obj\Debug\net5.0\nhap8.AssemblyInfoInputs.cache
+E:\LEARN\Online\CTDLGT bt\nhap8\obj\Debug\net5.0\nhap8.AssemblyInfo.cs
+E:\LEARN\Online\CTDLGT bt\nhap8\obj\Debug\net5.0\nhap8.csproj.CoreCompileInputs.cache
+E:\LEARN\Online\CTDLGT bt\nhap8\obj\Debug\net5.0\nhap8.dll
+E:\LEARN\Online\CTDLGT bt\nhap8\obj\Debug\net5.0\ref\nhap8.dll
+E:\LEARN\Online\CTDLGT bt\nhap8\obj\Debug\net5.0\nhap8.pdb
+E:\LEARN\Online\CTDLGT bt\nhap8\obj\Debug\net5.0\nhap8.genruntimeconfig.cache
